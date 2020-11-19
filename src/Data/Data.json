@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Quy",
+        "tel": "213123123",
+        "Permission": 1 
+    },
+    {
+        "id": 2,
+        "name": "Anh",
+        "tel": "654645624",
+        "Permission": 2 
+    },
+    {
+        "id": 3,
+        "name": "Quan",
+        "tel": "14234234",
+        "Permission": 3 
+    },
+    {
+        "id": 4,
+        "name": "Bin",
+        "tel": "54353425",
+        "Permission": 3 
+    }
+]
